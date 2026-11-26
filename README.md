@@ -16,3 +16,7 @@ Men **kelajakda kuchli dasturchi** bo'lishni xohlayman.
 
 Mening sevimli platformam: [GitHub](https://github.com/)
 
+
+## Mening maqsadim
+
+Dasturlashni chuqur o'rganish.
