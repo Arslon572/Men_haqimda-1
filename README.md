@@ -20,3 +20,5 @@ Mening sevimli platformam: [GitHub](https://github.com/)
 ## Mening maqsadim
 
 Dasturlashni chuqur o'rganish.
+
+Men har kuni yangi bilimlar o'rganaman.
